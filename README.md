@@ -1,9 +1,7 @@
 ir-vim
 ============
 
-My personal Vim setup I've spent the last three years building up.
-I tend to work on Linux, Mac, and Windows regularly so I have attempted to
-write my vimrc in such a way as to support all three with a single vimrc.
+Vim setup inspired by a collegue, and friend. Use vim like an IDE.
 
 Installation
 ------------
