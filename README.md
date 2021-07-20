@@ -9,9 +9,9 @@ Installation
 ------------
 
 	cd ~
-	git clone https://github.com/irrigger/ir-vim.git .vim
+	git clone https://github.com/chrisp-zeroone/ir-vim.git .vim 
 	ln -s .vim/vimrc .vimrc
-	vim
+	git clone https://github.com/VundleVim/Vundle.vim.git .vim/bundle/Vundle.vim; vim +PluginInstall +qall
 	:PluginInstall
 
 You should now be up and running with my setup.
